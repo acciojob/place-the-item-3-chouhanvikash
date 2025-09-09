@@ -1,2 +1,17 @@
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	  flex-wrap: wrap;
+}
 
+.item{
+	height:100px;
+	width:100px;
+	border:2px solid red;
+	background-color:green;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	
+}
 /* Your CSS Code here. */
